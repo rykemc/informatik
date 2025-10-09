@@ -1,6 +1,6 @@
 import random
 print("Chatbot: Ich denke mir eine Zahl von 1 bis 100. Rate sie!")
-geheim=random.randint(1,100)
+geheim=random.randint(1,50)
 while True:
     versuch=int(input("Dein Tipp: "))
     if versuch==geheim:
@@ -8,3 +8,4 @@ while True:
         break
     else:
         print("Chatbot: Falsch, versuch es nochmal!")
+
