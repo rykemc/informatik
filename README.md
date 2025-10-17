@@ -1,6 +1,7 @@
 ## Welcome
-This Chatbot is my School Project wich i have to do for AG.
+Dieser Chatbot ist mein Projekt für meine Informatik AG.
 
-### Currently Avalible Functions:
-- Guess the Number (1-50)
-- Tell me a Joke
+### Zurzeitiege Funktionen:
+- Errate die Nummer (1-50)
+- Erzähl mir einen Witz
+
