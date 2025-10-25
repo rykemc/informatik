@@ -7,8 +7,8 @@ while True:
     eingabe=input("Du: ")
     if eingabe=="Zahl":
         import random
-        print("Chatbot: Ich denke mir eine Zahl von 1 bis 100. Rate sie!")
-        geheim=random.randint(1,100)
+        print("Chatbot: Ich denke mir eine Zahl von 1 bis 50. Rate sie!")
+        geheim=random.randint(1,50)
         while True:
             versuch=int(input("Dein Tipp: "))
             if versuch==geheim:
@@ -127,3 +127,4 @@ while True:
         print("Schreibe 'Zahl' um eine Zahl zwischen 1 und 100 zu erraten, oder 'Witz' um einen weiteren Witz zu hören.")
     else:
         break
+
