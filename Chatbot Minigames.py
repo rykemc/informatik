@@ -13,9 +13,11 @@ while True:
             versuch=int(input("Dein Tipp: "))
             if versuch==geheim:
                 print("Chatbot:Glückwunsch, du hast die Zahl erraten!")
+                print("")
+                print("Schreibe 'Zahl' um eine Zahl zwischen 1 und 50 zu erraten, oder 'Witz' um einen Witz zu hören.")
                 break
             elif versuch==0:
-              print("Schreibe 'Zahl' um eine Zahl zwischen 1 und 100 zu erraten, oder 'Witz' um einen Witz zu hören.")
+              print("Schreibe 'Zahl' um eine Zahl zwischen 1 und 50 zu erraten, oder 'Witz' um einen Witz zu hören.")
               break
             else:
                 print("Chatbot: Falsch, versuch es nochmal!")
@@ -127,4 +129,5 @@ while True:
         print("Schreibe 'Zahl' um eine Zahl zwischen 1 und 100 zu erraten, oder 'Witz' um einen weiteren Witz zu hören.")
     else:
         break
+
 
