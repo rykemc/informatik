@@ -1,8 +1,9 @@
 ## Wilkommen
-Dieser Chatbot ist mein Projekt für meine Informatik AG.
+In dieser Reposity sind alle meine Projekte für die Informatik AG
 
-### Zurzeitiege Funktionen:
-- Errate die Nummer (1-50)
-- Erzähl mir einen Witz
+### Meine Aktuellen Projekte:
+- Ein chatbot
+- Ein bestellmenü für ein restoran
+
 
 
